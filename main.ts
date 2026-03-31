@@ -2,7 +2,7 @@
  *
  * Created by: Illia
  * Created on: March 2026
- * This program light green, yellow and red
+ * This program light green, yellow and red RGB
 */
 
 // variables
