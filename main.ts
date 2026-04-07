@@ -5,10 +5,8 @@
  * This program light green, yellow and red RGB
 */
 
-
 // variables
 let neopixelStrip: neopixel.Strip = null
-
 
 // cleanup
 basic.clearScreen()
